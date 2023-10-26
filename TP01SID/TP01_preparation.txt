@@ -1,0 +1,61 @@
+TP01 : Préparation de données
+===============================
+
+Dans ce TP, nous allons essayer d'implementer quelques fonctions de preparation de donnees.
+Ensuite, nous allons appliquer des fonctions sur un cas reel afin de discuter l'utilite de chacune.
+
+OUTILS : Python, Jupyter, pandas, scikit-learn, numpy, matplotlib, lxml
+--------
+
+DATASETS : adult (classement de la remuneration en se basant sur des caracteristiques)
+----------
+
+PLAN : 
+------
+
+I. Réalisation des algorithmes
+    I.1.  Normalisation
+    I.2.  Encodage One-Hot
+    I.3.  Binarisation
+    I.4.  Analyse en composantes principales (ACP)
+II. Application et analyse
+    II.1. Lecture des données
+    II.2. Intégration des données
+    II.3. Nétoyage des données
+    II.4. Transformation des données
+    II.5. ACP
+
+QUOI FAIRE : 
+------------
+
+I. Réalisation des algorithmes
+    - Standardisation d'une matrice  [4pts]
+    - Normalisation min-max d'une matrice [4pts]
+    - Encodage One-Hot [4pts]
+    - Binarisation [4pts]
+    - ACP [6pts]
+    
+II. Application et analyse
+    - Lecture des données [2pts = 1 + 1]
+    - Intégration des données, operation 1 [3pts = 1 + 1 + 1]
+    - Intégration des données, operation 2 [2pts = 1 + 1]
+    - Intégration des données, operation 3 [2pts = 1 + 1]
+    - Intégration des données, operation 4 [2pts = 1 + 1]
+    - Intégration des données, operation 5 [2pts = 1 + 1]
+    - Intégration des données, operation 6 [2pts = 1 + 1]
+    - Intégration des données, operation 7 [2pts = 1 + 1]
+    - Intégration des données, operation 8 [2pts = 1 + 1]
+    - Intégration des données, operation 9 [2pts = 1 + 1]
+    - Nétoyage des données, operation 1 [2pts = 1 + 1]
+    - Nétoyage des données, operation 2 [2pts = 1 + 1]
+    - Transformation des données, operation 1 [2pts = 1 + 1]
+    - Transformation des données, operation 2 [2pts = 1 + 1]
+    - Transformation des données, operation 3 [4pts = 1 + 1 + 1 + 1]
+    - Transformation des données, operation 4 [2pts = 1 + 1]
+    - Transformation des données, operation 5 [2pts = 1 + 1]
+    - ACP, operation 1 [1pt]
+    - ACP, operation 2 [4pts = 1 + 1 + 1 + 1]
+
+
+Avancement dans la séance [8pts]
+Rendre le TP à temps [8pts]
