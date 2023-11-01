@@ -1,0 +1,48 @@
+TP02 : Régression et évaluation
+===============================
+
+Dans ce TP, nous allons traiter la régression binaire et logistique,
+ainsi que l'évaluation des deux types d'apprentissage automatiuque (classement et régression).
+
+OUTILS : Python, Jupyter, pandas, scikit-learn, numpy, matplotlib
+--------
+
+DATASETS : prix des maisons (régression), notes des étudiants (classement)
+----------
+
+PLAN : 
+------
+
+I. Réalisation des algorithmes
+    I.1.  Régression linéaire
+    I.2.  Régression logistique
+    I.3.  Déscente du gradient
+    I.4.  Regrouper les fonctions
+II. Application et analyse
+    II.1. Régression linéaire
+    II.2. Régression logistique binaire
+
+QUOI FAIRE : 
+------------
+
+I. Réalisation des algorithmes
+    - Combinaison linéaire [4pts]
+    - Fonction du coût MSE [4pts]
+    - Fonction des gradients MSE [4pts]
+    - Fonction logistique [4pts]
+    - Fonction de prédiction (régression logistique) [4pts]
+    - Fonction du coût BCE [8pts]
+    
+II. Application et analyse
+    - Taux d'apprentissage et convergence dans la régression linéaire [7pts = 1 + 2 + 2 + 1 + 1]
+    - Qualité de prédiction avec la régression linéaire [3pts = 1 + 2]
+    - Qualité de prédiction avec la régression polynomiale [1pt]
+    - Métriques d'évaluation de la régression [6pts = 2 + 2 + 2]
+    - Normalisation et convergence avec la régression logistique [5pts = 1 + 2 + 2]
+    - Complexité du modèle et apprentissage dans la régression logistique [5pts = 1 + 2 + 2]
+    - ROC [4pts = 2 + 2]
+    - Métriques d'évaluation du classement [5pts = 1 + 1 + 1 + 1 + 1]
+    
+
+Avancement dans la séance [8pts]
+Rendre le TP à temps      [8pts]
