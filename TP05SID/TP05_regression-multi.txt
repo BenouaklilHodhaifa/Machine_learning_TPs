@@ -1,0 +1,47 @@
+TP02 : Régression logistique multi-classes
+===========================================
+
+Les étudiants doivent compléter le code afin de créer un regresseur logistique multinomial (maximum entropy). 
+Ils vont voir quelques méthodes de classement multi-classes comme One-vs-Rest et One-vs-One.
+
+OUTILS : 
+--------
+Python, Jupyter, pandas, scikit-learn, numpy, matplotlib
+
+DATASETS : 
+----------
+Iris, bodyPerformance
+
+PLAN : 
+------
+I. Réalisation des algorithmes
+    I.1. Combinaison linéaire
+    I.2. Calcul des probabilités
+    I.3. Prédiction
+    I.4. Calcul du coût
+    I.5. Calcul des gradients
+    I.6. Descente du gradient
+    I.7. Regrouper les fonctions ensemble
+II. Application et analyse
+    II.1. Lecture des données
+    II.2. Séparabilité des classes
+    II.3. One-vs-Rest OU MaxEnt
+    II.4. One-vs-Rest OU One-vs-One
+
+QUOI FAIRE : 
+------------
+I. Réalisation des algorithmes
+    - Combinaison linéaire [4pts]
+    - Softmax [6pts]
+    - Prédictions multiclasses [6pts]
+    - Coût du classement multiclasses [6pts]
+    - Coût classement multiclasses [6pts]
+    
+II. Application et analyse
+    - Séparabilité des classes [8pts]
+    - One-vs-Rest OU MaxEnt [10pts]
+    - One-vs-Rest OU One-vs-One [18pts]
+
+
+Avancement dans la séance [8pts]
+Rendre le TP à temps [8pts]
